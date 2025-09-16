@@ -8,4 +8,4 @@ git branch=master
 This git repo provides the Jupyter notebooks that are utilized by the
 "Fine-Tune & Deploy an Open Source LLM on GPU using Data Science Quick Actions" Tutorial 
 that is published at
-https://docs-uat.us.oracle.com/en/learn/tune-llm-data-science/#introduction
+https://docs.oracle.com/en/learn/tune-llm-data-science/
